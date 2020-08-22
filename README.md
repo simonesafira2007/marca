@@ -28,8 +28,6 @@ Inserindo imagem
 
 ![Imagem teste](./imagem/catghub.png)
 
-
-
   
 ## Lista de Tarefas
 - [x] Fazer as compras;
