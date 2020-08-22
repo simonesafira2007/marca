@@ -23,7 +23,16 @@ Palavra em ** NEGRITO **
 
 Palavra __*ITÁLICO*__
 
+Inserindo imagem 
+
+
+![Imagem teste](./imagem/dog.jpg)
 
 
 
   
+Lista de Tarefas
+- [x] Fazer as compras;
+- [x] Fazer transferência bancária;
+- [x] Pagamento das contas fixas;
+- [] Fazer caminhada na praia
