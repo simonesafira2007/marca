@@ -50,7 +50,7 @@ Inserindo imagem
 4.
 
 ## Inserindo link
-[Site:  Uso das TIC na Educação]( https://sites.google.com/view/uso-das-tic-na-educacao/pagina-inicial)
+[Uso das TIC na Educação]( https://sites.google.com/view/uso-das-tic-na-educacao/pagina-inicial)
 
 
 
