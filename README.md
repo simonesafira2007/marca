@@ -31,8 +31,23 @@ Inserindo imagem
 
 
   
-Lista de Tarefas
+## Lista de Tarefas
 - [x] Fazer as compras;
 - [x] Fazer transferência bancária;
 - [x] Pagamento das contas fixas;
-- [] Fazer caminhada na praia
+- [x] Fazer caminhada na praia.
+
+## Marcadores
+*
+*
+*
+*
+
+## Marcadores numéricos
+1.
+2.
+3.
+4.
+
+
+
