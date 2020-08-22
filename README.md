@@ -2,7 +2,7 @@
 
 NOME      | CIDADE   | GÊNERO    | ESTADO CIVIL
 :---      |:---      |:---       |:---        
-Simone    | Limoeiro | Feminino  | Divorciada 
+Simone    | Olinda   | Feminino  | Divorciada 
 Safira    | Recife   | Feminino  | Solteira
 Elizabeth | Moreno   | Feminino  | Casada
 Matheus   | Paulista | Masculino | Solteiro
@@ -12,7 +12,7 @@ Matheus   | Paulista | Masculino | Solteiro
 
 ---
 # TÍTULO
-## TITULO
+## TITULO 
 ---
 ### TÍTULO
 ---
@@ -26,7 +26,7 @@ Palavra __*ITÁLICO*__
 Inserindo imagem 
 
 
-![Imagem teste](./imagem/dog.jpg)
+![Imagem teste](./imagem/catghub.png)
 
 
 
